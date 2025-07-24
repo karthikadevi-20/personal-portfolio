@@ -24,6 +24,11 @@ export const Projects = () => {
     title: "Vowhelp",
     description: "A platform for requesting and offering help in real time within local communities.",
     imgUrl: projImg2,
+  },
+  {
+    title: "Vowhelp",
+    description: "A platform for requesting and offering help in real time within local communities.",
+    imgUrl: projImg2,
   }
 ];
 
